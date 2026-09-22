@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "picture": "https://i.pravatar.cc/150?img=1",
+    "email": "sarah.johnson@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["Friend", "College"],
+    "bio": "A close college friend who loves traveling and photography.",
+    "goal": "Catch up over coffee",
+    "next_due_date": "2026-09-15"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "picture": "https://i.pravatar.cc/150?img=2",
+    "email": "michael.smith@example.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["Work", "Friend"],
+    "bio": "A former colleague who enjoys technology and startups.",
+    "goal": "Discuss new project ideas",
+    "next_due_date": "2026-09-20"
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "picture": "https://i.pravatar.cc/150?img=3",
+    "email": "emily.davis@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["Family"],
+    "bio": "A cheerful person who loves books, music, and family gatherings.",
+    "goal": "Stay connected regularly",
+    "next_due_date": "2026-09-25"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Wilson",
+    "picture": "https://i.pravatar.cc/150?img=4",
+    "email": "daniel.wilson@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["Friend", "Travel"],
+    "bio": "A longtime friend and travel partner who loves adventure.",
+    "goal": "Plan a weekend trip",
+    "next_due_date": "2026-09-12"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Brown",
+    "picture": "https://i.pravatar.cc/150?img=5",
+    "email": "olivia.brown@example.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["Work", "Mentor"],
+    "bio": "An experienced mentor who enjoys helping others grow professionally.",
+    "goal": "Ask for career advice",
+    "next_due_date": "2026-09-19"
+  },
+  {
+    "id": 6,
+    "name": "James Taylor",
+    "picture": "https://i.pravatar.cc/150?img=6",
+    "email": "james.taylor@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["Friend", "Sports"],
+    "bio": "A sports enthusiast who enjoys football and fitness.",
+    "goal": "Play football together",
+    "next_due_date": "2026-09-28"
+  },
+  {
+    "id": 7,
+    "name": "Sophia Anderson",
+    "picture": "https://i.pravatar.cc/150?img=7",
+    "email": "sophia.anderson@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["College", "Friend"],
+    "bio": "A university friend who loves art, design, and creative projects.",
+    "goal": "Meet and discuss design ideas",
+    "next_due_date": "2026-09-14"
+  },
+  {
+    "id": 8,
+    "name": "William Martinez",
+    "picture": "https://i.pravatar.cc/150?img=8",
+    "email": "william.martinez@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["Family", "Travel"],
+    "bio": "A family member who enjoys traveling and exploring new places.",
+    "goal": "Plan a family trip",
+    "next_due_date": "2026-09-30"
+  }
+]
